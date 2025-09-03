@@ -85,5 +85,5 @@ Nos testes em simulação:
 
 Este projeto segue a [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
-Quer que eu adapte esse **README.md** especificamente para **uso apenas com o controlador em C** (já que o código que você me mostrou é C, não Python), ou prefere que eu mantenha a flexibilidade de mencionar `main.py` como versão Python do controlador?
+do controlador?
 ```
